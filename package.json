@@ -1,0 +1,14 @@
+{
+  "name": "border-gradient-radius",
+  "version": "1.0.0",
+  "description": "very small HOC to apply curved border gradients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "border"
+  ],
+  "author": "shivanshBTW",
+  "license": "MIT"
+}
