@@ -1,22 +1,23 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import './styles.module.css'
 
 const BorderRadiusGradient = ({
   containerBackgroundColor = '#FFF',
   gradientValue = '', // 'linear-gradient(129.59deg, #969696 0%, #343434 98.18%)'
   children,
-  parentClassName = '',
+  className: parentClassName = '',
   borderWidth = '',
   borderRadius = ''
 }) => {
   return (
     <div
-      className={`BorderRadiusGradient-parent ${parentClassName || ''}`}
+      className={parentClassName || ''}
       style={{
         background: `linear-gradient(${containerBackgroundColor}, ${containerBackgroundColor}) padding-box, ${gradientValue} border-box`,
         borderWidth,
-        borderRadius
+        borderRadius,
+        borderStyle: 'solid',
+        borderColor: 'transparent'
       }}
     >
       {children}
