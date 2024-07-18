@@ -2,8 +2,13 @@
 
 > very small HOC to apply curved border gradients
 
-[![NPM](https://img.shields.io/npm/v/border-gradient-radius.svg)](https://www.npmjs.com/package/border-gradient-radius)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+<!-- [![NPM](https://img.shields.io/npm/v/border-gradient-radius.svg)](https://www.npmjs.com/package/border-gradient-radius) -->
+
+![npm](https://img.shields.io/npm/dm/border-gradient-radius.svg?label=downloads&style=for-the-badge)
+![npm](https://img.shields.io/npm/v/border-gradient-radius.svg?style=for-the-badge)
+![NPM](https://img.shields.io/npm/l/border-gradient-radius.svg?label=license&style=for-the-badge)
+[![downloads](https://img.shields.io/npm/dt/border-gradient-radius.svg?style=for-the-badge&label=overall%20downloads)](https://www.npmjs.com/package/border-gradient-radius)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=for-the-badge)](https://standardjs.com)
 
 ## Install
 
