@@ -52,8 +52,8 @@ const App = () => {
               gradientValue={gradientValue}
               borderWidth={borderWidth}
               borderRadius={borderRadius}
-              containerBackgroundColor = '#FFF',
-              parentClassName = '',
+              containerBackgroundColor = '#FFF'
+              parentClassName = ''
             >
               {CHILDREN}
             </BorderRadiusGradient>`}
