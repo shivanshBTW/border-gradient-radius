@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 const BorderRadiusGradient = ({
   containerBackgroundColor = '#FFF',
-  gradientValue = '', // 'linear-gradient(129.59deg, #969696 0%, #343434 98.18%)'
+  gradientValue = '',
   children,
   className: parentClassName = '',
   borderWidth = '',
