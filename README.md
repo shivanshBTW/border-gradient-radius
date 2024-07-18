@@ -13,7 +13,7 @@ npm install --save border-gradient-radius
 
 ## Playground
 
-You can access a basic demo [here](https://border-gradient-radius.surge.sh)
+You can access a basic demo <a href="https://border-gradient-radius.surge.sh" target="_blank">here</a>
 
 ## Usage
 
