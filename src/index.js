@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from './styles.module.css'
+import PropTypes from 'prop-types'
 
 const BorderRadiusGradient = ({
   containerBackgroundColor = '#FFF',
@@ -21,6 +22,15 @@ const BorderRadiusGradient = ({
       {children}
     </div>
   )
+}
+
+BorderRadiusGradient.propTypes = {
+  containerBackgroundColor: PropTypes.string,
+  gradientValue: PropTypes.string,
+  children: PropTypes.node,
+  parentClassName: PropTypes.string,
+  borderWidth: PropTypes.string,
+  borderRadius: PropTypes.string
 }
 
 export default BorderRadiusGradient
