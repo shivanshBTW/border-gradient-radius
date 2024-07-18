@@ -1,4 +1,4 @@
-# border-gradient-radius
+# <a href="https://www.npmjs.com/package/border-gradient-radius" target="_blank">border-gradient-radius</a>
 
 > very small HOC to apply curved border gradients
 
