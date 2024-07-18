@@ -11,6 +11,10 @@
 npm install --save border-gradient-radius
 ```
 
+## Playground
+
+You can access a basic demo [here](https://border-gradient-radius.surge.sh)
+
 ## Usage
 
 ```jsx
