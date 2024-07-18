@@ -9,6 +9,7 @@
 ![NPM](https://img.shields.io/npm/l/border-gradient-radius.svg?label=license&style=for-the-badge)
 [![downloads](https://img.shields.io/npm/dt/border-gradient-radius.svg?style=for-the-badge&label=overall%20downloads)](https://www.npmjs.com/package/border-gradient-radius)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=for-the-badge)](https://standardjs.com)
+![Gzip size](https://img.shields.io/bundlejs/size/border-gradient-radius?style=for-the-badge)
 
 ## Install
 
