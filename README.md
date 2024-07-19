@@ -28,7 +28,6 @@ You can access a basic demo <a href="https://border-gradient-radius.surge.sh" ta
 import React, { Component } from 'react'
 
 import BorderRadiusGradient from 'border-gradient-radius'
-import 'border-gradient-radius/dist/index.css'
 
 class Example extends Component {
   render() {

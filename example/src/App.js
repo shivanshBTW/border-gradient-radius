@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 
 import BorderRadiusGradient from 'border-gradient-radius'
-import 'border-gradient-radius/dist/index.css'
 
 const App = () => {
   const [borderWidth, setBorderWidth] = useState('4px')
