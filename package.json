@@ -1,6 +1,6 @@
 {
   "name": "border-gradient-radius",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "very small HOC to apply curved border gradients",
   "author": "shivanshBTW",
   "license": "MIT",
@@ -47,5 +47,25 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react",
+    "border",
+    "gradient",
+    "radius",
+    "curved",
+    "border-radius",
+    "border-gradient",
+    "border-gradient-radius",
+    "gradient-border",
+    "curved-border",
+    "react-border",
+    "react-gradient",
+    "react-radius",
+    "react-curved",
+    "react-border-radius",
+    "react-border-gradient-radius",
+    "react-gradient-border",
+    "react-gradient-border-radius"
   ]
 }
