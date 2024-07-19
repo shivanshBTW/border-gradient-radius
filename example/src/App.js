@@ -53,7 +53,7 @@ const App = () => {
               borderWidth={borderWidth}
               borderRadius={borderRadius}
               containerBackgroundColor = '#FFF'
-              parentClassName = ''
+              className = ''
             >
               {CHILDREN}
             </BorderRadiusGradient>`}

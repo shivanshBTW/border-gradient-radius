@@ -29,7 +29,7 @@ BorderRadiusGradient.propTypes = {
   containerBackgroundColor: PropTypes.string,
   gradientValue: PropTypes.string,
   children: PropTypes.node,
-  parentClassName: PropTypes.string,
+  className: PropTypes.string,
   borderWidth: PropTypes.string,
   borderRadius: PropTypes.string
 }

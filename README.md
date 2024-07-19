@@ -5,11 +5,12 @@
 <!-- [![NPM](https://img.shields.io/npm/v/border-gradient-radius.svg)](https://www.npmjs.com/package/border-gradient-radius) -->
 
 ![npm](https://img.shields.io/npm/dm/border-gradient-radius.svg?label=downloads&style=for-the-badge)
+[![downloads](https://img.shields.io/npm/dt/border-gradient-radius.svg?style=for-the-badge&label=overall%20downloads)](https://www.npmjs.com/package/border-gradient-radius)
+![Gzip size](https://img.shields.io/bundlejs/size/border-gradient-radius?style=for-the-badge)
+<br/>
 ![npm](https://img.shields.io/npm/v/border-gradient-radius.svg?style=for-the-badge)
 ![NPM](https://img.shields.io/npm/l/border-gradient-radius.svg?label=license&style=for-the-badge)
-[![downloads](https://img.shields.io/npm/dt/border-gradient-radius.svg?style=for-the-badge&label=overall%20downloads)](https://www.npmjs.com/package/border-gradient-radius)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=for-the-badge)](https://standardjs.com)
-![Gzip size](https://img.shields.io/bundlejs/size/border-gradient-radius?style=for-the-badge)
 
 ## Install
 
@@ -37,7 +38,7 @@ class Example extends Component {
         borderWidth={borderWidth}
         borderRadius={borderRadius}
         containerBackgroundColor='#FFF'
-        parentClassName=''
+        className=''
       >
         {CHILDREN}
       </BorderRadiusGradient>
