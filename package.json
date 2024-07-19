@@ -1,6 +1,6 @@
 {
   "name": "border-gradient-radius",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "very small HOC to apply curved border gradients",
   "author": "shivanshBTW",
   "license": "MIT",
