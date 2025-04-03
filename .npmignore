@@ -1,0 +1,16 @@
+src/
+node_modules/
+.github/
+.git/
+.gitignore
+.DS_Store
+rollup.config.js
+tsconfig.json
+jest.config.js
+.eslintrc
+.eslintignore
+coverage/
+__tests__/
+**/*.test.ts
+**/*.test.tsx
+**/*.stories.tsx 

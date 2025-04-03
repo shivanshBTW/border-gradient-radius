@@ -1,0 +1,83 @@
+{
+    "name": "border-gradient-radius",
+    "version": "1.2.5",
+    "author": "shivanshBTW",
+    "license": "MIT",
+    "main": "dist/index.js",
+    "source": "src/index.js",
+    "description": "A React component for creating gradient borders with border radius",
+    "module": "dist/index.esm.js",
+    "types": "dist/index.d.ts",
+    "exports": {
+        ".": {
+            "import": "./dist/index.esm.js",
+            "require": "./dist/index.js",
+            "types": "./dist/index.d.ts"
+        }
+    },
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "rollup -c",
+        "test": "jest",
+        "lint": "eslint src/**/*.{ts,tsx}",
+        "prepare": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shivanshBTW/border-gradient-radius.git"
+    },
+    "peerDependencies": {
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    },
+    "devDependencies": {
+        "@rollup/plugin-commonjs": "^25.0.0",
+        "@rollup/plugin-node-resolve": "^15.2.0",
+        "@rollup/plugin-typescript": "^11.0.0",
+        "@testing-library/jest-dom": "^6.0.0",
+        "@testing-library/react": "^14.0.0",
+        "@types/jest": "^29.0.0",
+        "@types/react": "^18.2.0",
+        "@types/react-dom": "^18.2.0",
+        "eslint": "^8.0.0",
+        "jest": "^29.0.0",
+        "jest-environment-jsdom": "^29.0.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "rollup": "^3.20.0",
+        "rollup-plugin-peer-deps-external": "^2.2.4",
+        "ts-jest": "^29.0.0",
+        "typescript": "^5.8.2"
+    },
+    "keywords": [
+        "react",
+        "border",
+        "gradient",
+        "radius",
+        "curved",
+        "border-radius",
+        "border-gradient",
+        "border-gradient-radius",
+        "gradient-border",
+        "curved-border",
+        "react-border",
+        "react-gradient",
+        "react-radius",
+        "react-curved",
+        "react-border-radius",
+        "react-border-gradient-radius",
+        "react-gradient-border",
+        "react",
+        "nextjs",
+        "border",
+        "gradient",
+        "radius",
+        "css",
+        "styled"
+    ],
+    "dependencies": {
+        "tslib": "^2.8.1"
+    }
+}
